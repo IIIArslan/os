@@ -1,0 +1,9 @@
+{
+  "name": "adana-ankara-sync",
+  "version": "1.0.0",
+  "main": "functions/runAction.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
